@@ -1,0 +1,62 @@
+body{
+text-align:center;
+background-color:black;
+background-image:radial-gradient(darkblue , black , blue , red , darkblue , black , white , red , blue , black , red , blue );
+background-repeat:no-repeat;
+}
+
+.oasis{
+margin-top:50px;    
+}
+
+.rttk{
+color:antiquewhite;    
+}
+
+.rc{
+  color:peru;  
+}
+
+.ready{
+  color:goldenrod;  
+}
+
+.passone{
+ color:maroon;   
+}
+
+.til{
+color:palegreen;    
+}
+
+.hall{
+ color:greenyellow;   
+}
+
+.passtwo{
+ color:olive;   
+}
+
+.thrd{
+ color:aqua;   
+}
+
+.quest{
+ color:deepskyblue;   
+}
+
+.passthr{
+ color:blue;   
+}
+
+.ges{
+ color:purple;   
+}
+
+.path{
+ color:mediumvioletred;   
+}
+
+.wrd{
+ color:gold;   
+}
